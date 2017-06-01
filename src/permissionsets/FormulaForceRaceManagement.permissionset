@@ -977,8 +977,4 @@
         <enabled>false</enabled>
         <name>WorkDotComUserPerm</name>
     </userPermissions>
-    <userPermissions>
-        <enabled>false</enabled>
-        <name>XOrgProxyUser</name>
-    </userPermissions>
 </PermissionSet>
